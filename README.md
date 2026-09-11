@@ -1,4 +1,6 @@
-## Welcome 👋, my name is Ethan Yang, a second-year Honors Mathematical Physics Student at the University of Waterloo. I hope you find my projects interesting and learn something new. I am currently seeking Co-op opportunities for Winter 2027 (Jan 2027 - April 2027). If you happen to know of any opportunities or want to chat about anything, feel free to reach out to me. 
+## Welcome👋! 
+  My name is Ethan Yang, a second-year Honors Mathematical Physics Student at the University of Waterloo. I hope you find my projects interesting and learn something new. I am currently seeking Co-op   opportunities for Winter 2027 (Jan 2027 - April 2027). If you happen to know of any opportunities or want to chat about anything, feel free to reach out to me at e99yang@uwaterloo.ca.
+  
 
 
 <!--
